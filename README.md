@@ -138,17 +138,6 @@ Full report [here](https://docs.google.com/document/d/1-BwJbtHX0ZD1FOHyiWaW36SRG
     After:
     <img width="1463" alt="Screen Shot 2022-12-10 at 12 37 11 AM" src="https://user-images.githubusercontent.com/58647320/206841535-f1eae039-9aa9-4e77-8c5b-a5ea74b9b25b.png">
 
-# 60% completion by Nov 15
-
-https://github.com/yianan261/Tutor-Match-App/tree/602a17dd0e83302ea39311b539f68717950999fb
-
-# 80% completion by Nov 22
-
-https://github.com/yianan261/Tutor-Match-App/tree/a0a0bdea6f071ef2d0fe2534192e95a47d190df8
-
-# 100% completion by Nov 28
-
-https://github.com/yianan261/Tutor-Match-App/tree/33143c3ea8d385bf73fc6430d9117fab58d2287f
 
 # Design Mockup
 
@@ -162,9 +151,6 @@ Mockup docs [here](https://www.figma.com/file/xn2avkmMPsgbc284Jr5bZn/Tutor-Web-A
 
 https://johnguerra.co/classes/webDevelopment_fall_2022/
 
-# Authors
-
-Yian Chen & So Man Amanda Au-Yeung
 
 # Website images
 
