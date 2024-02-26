@@ -1,4 +1,4 @@
-# Tutor-Match-App
+# Where-IS-Your-Tutor-App
 
 This is a MERN stack web application that helps students get the academic help they need.
 The website is a tutor matching app for students and tutors. The app helps students (users) to match a tutor according to their academic needs. The main collections in the db would be user basic info and classes, the other collection would be the tutor profiles, such as tutor’s academia record and reviews. For more detailed information, please refer to the design documents attached
